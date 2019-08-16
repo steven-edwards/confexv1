@@ -4,11 +4,11 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: This Is A Big Hero Headline
+  title: Continuous Rotary Extrusion Specialists
   component: hero_block.html
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
-  image: images/hero.png
+  content: Confex are committed to customer service and providing products of the
+    highest quality.
+  image: "/images/MC300-1-300x199.jpg"
   actions:
   - label: Learn More
     url: "/features"
@@ -79,6 +79,7 @@ sections:
   title: Latest Posts
   component: posts_block.html
   bg: gray
+  subtitle: ''
 layout: home
 menu:
   main:
