@@ -4,11 +4,12 @@ subtitle: Confex Technology have since 1993 specialised in Continuous Rotary Ext
   systems.
 img_path: ''
 layout: page
+split_content: Split content - what is it?
 menu:
-  main:
-    weight: 2
   secondary:
     weight: 1
+  main:
+    weight: 2
 
 ---
 Confex Technology Ltd was formed in 1993 by David Godwin, who prior to forming Confex was involved in the start up of Holton Machinery including design, development and sales of CRE machines.
