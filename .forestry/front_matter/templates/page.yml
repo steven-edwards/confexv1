@@ -23,6 +23,16 @@ fields:
   default: page
   config:
     required: true
+- name: split_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Split Content
+  hidden: false
 pages:
 - about.md
 - style-guide.md
