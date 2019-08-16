@@ -1,16 +1,22 @@
 ---
 title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: This is an optional subtitle. It can be used to describe what this page
+  is about.
 img_path: images/about.jpg
-menus:
-  secondary:
-    title: About Us
-    weight: 1
 layout: page
+menu:
+  secondary:
+    weight: 1
+
 ---
+# Company Profile
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Confex Technology have since 1993 specialised in Continuous Rotary Extrusion systems.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+Confex Technology Ltd was formed in 1993 by David Godwin, who prior to forming Confex was involved in the start up of Holton Machinery including design, development and sales of CRE machines.
+
+Together with other ex-Holton Machinery engineers now employed by Confex, we have supplied many Continuous Rotary Extrusion Lines both as Confex and together with our partners.
+
+![Confex Continuous Rotary Extrusion](http://www.confexuk.com/images/confex-company.jpg)
+
+In 2008 we took the decision to buy our own purpose built offices and warehouse based in Poole, Dorset, UK. Here we hold a large stock of spares, tooling and dies, carry out refurbishment and assembly of items such as extrusion shoes and head frame assemblies.
