@@ -1,21 +1,16 @@
 ---
-title: About Us
-subtitle: This is an optional subtitle. It can be used to describe what this page
-  is about.
-img_path: images/about.jpg
+title: Company Profile
+subtitle: Confex Technology have since 1993 specialised in Continuous Rotary Extrusion
+  systems.
+img_path: ''
 layout: page
 menu:
   main:
     weight: 2
-    title: Company Profile
   secondary:
     weight: 1
 
 ---
-# Company Profile
-
-Confex Technology have since 1993 specialised in Continuous Rotary Extrusion systems.
-
 Confex Technology Ltd was formed in 1993 by David Godwin, who prior to forming Confex was involved in the start up of Holton Machinery including design, development and sales of CRE machines.
 
 Together with other ex-Holton Machinery engineers now employed by Confex, we have supplied many Continuous Rotary Extrusion Lines both as Confex and together with our partners.
