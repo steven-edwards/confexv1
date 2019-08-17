@@ -40,7 +40,7 @@ sections:
     content: We also carry out conversion of our all types of CRE machines to our
       extrusion system to achieve improved productivity and quality at much lower
       operating costs.
-    image: "/images/cogs.jpg"
+    image: ''
     actions:
     - label: Learn More
       url: "/features"
