@@ -6,8 +6,8 @@ sections:
   section_id: hero
   title: Continuous Rotary Extrusion Specialists
   component: hero_block.html
-  content: Confex are committed to customer service and providing products of the
-    highest quality.
+  content: Welcome to Confex - the number one supplier for all things relating to
+    Continuous Rotary Extrusion - CRE.
   image: "/images/MC300-transparent1.png"
   actions:
   - label: Learn More
