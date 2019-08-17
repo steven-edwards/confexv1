@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Process
-subtitle: Continuous Rotary Extrusion
+title: The Process - Continuous Rotary Extrusion
+subtitle: ''
 img_path: ''
 split_content: ''
 menu:
