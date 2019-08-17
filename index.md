@@ -22,7 +22,9 @@ sections:
   bg: gray
   featureslist:
   - title: Products
-    content: 'We supply the best products the world has ever seen! '
+    content: A bit more interesting paragraph of text should go here to explain what
+      kind of amazing products Confex sell. Just a simple paragraph of text should
+      do.
     image: "/images/CRE-wheel.jpg"
     actions:
     - label: Learn More
