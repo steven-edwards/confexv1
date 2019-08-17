@@ -30,7 +30,7 @@ sections:
   - title: Services
     content: Confex offers a comprehensive service and support package for CRE machines
       supplied by all manufacturers.
-    image: images/feature2.png
+    image: "/images/kaleidico-26MJGnCM0Wc-unsplash.jpg"
     actions:
     - label: Learn More
       url: "/features"
