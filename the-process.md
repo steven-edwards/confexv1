@@ -4,6 +4,10 @@ title: The Process
 subtitle: Continuous Rotary Extrusion
 img_path: ''
 split_content: ''
+menu:
+  main:
+    weight: 3
+    title: Process
 published: false
 
 ---
