@@ -23,7 +23,7 @@ sections:
   featureslist:
   - title: Products
     content: We supply the best products the world has ever seen!
-    image: images/feature1.png
+    image: "/images/CRE-wheel.jpg"
     actions:
     - label: Learn More
       url: "/features"
