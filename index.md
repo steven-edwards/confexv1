@@ -15,29 +15,29 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: features
-  title: Features
+  title: The **Number One** Supplier
   component: features_block.html
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  subtitle: Confex are committed to customer service and providing products of the
+    highest quality.
   bg: gray
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
+  - title: Products
+    content: We supply the best products the world has ever seen!
     image: images/feature1.png
     actions:
     - label: Learn More
       url: "/features"
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+  - title: Services
+    content: Confex offers a comprehensive service and support package for CRE machines
+      supplied by all manufacturers.
     image: images/feature2.png
     actions:
     - label: Learn More
       url: "/features"
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
+  - title: Conversions
+    content: We also carry out conversion of our all types of CRE machines to our
+      extrusion system to achieve improved productivity and quality at much lower
+      operating costs.
     image: images/feature3.png
     actions:
     - label: Learn More
