@@ -22,7 +22,7 @@ sections:
   bg: gray
   featureslist:
   - title: Products
-    content: We supply the best products the world has ever seen!
+    content: 'We supply the best products the world has ever seen! '
     image: "/images/CRE-wheel.jpg"
     actions:
     - label: Learn More
