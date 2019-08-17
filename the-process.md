@@ -8,7 +8,6 @@ menu:
   main:
     weight: 3
     title: Process
-published: false
 
 ---
 The United Kingdom Atomic Energy Authority (UKAEA) invented the continuous extrusion system in 1971 whilst looking for a method of producing seamless tubes for the storage of spent nuclear fuel rods.
