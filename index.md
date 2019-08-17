@@ -15,7 +15,7 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: features
-  title: The **Number One** Supplier
+  title: The Number One Supplier
   component: features_block.html
   subtitle: Confex are committed to customer service and providing products of the
     highest quality.
