@@ -44,6 +44,10 @@ sections:
   label: Contact
   templates:
   - contact
+- type: document
+  path: the-process.md
+  label: The Process
+  match: "**/*"
 - type: directory
   path: ''
   label: Page
