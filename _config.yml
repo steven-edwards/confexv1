@@ -2,7 +2,7 @@
 title: Confex UK | Continuous Rotary Extrusion Specialists
 baseurl: "/"
 permalink: "/:title/"
-palette: blue
+palette: orange
 header:
   title: Confex UK
   logo_img: "/images/Confex1-single-sml2.png"
