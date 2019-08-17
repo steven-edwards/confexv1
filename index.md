@@ -11,7 +11,7 @@ sections:
   image: "/images/MC300-transparent1.png"
   actions:
   - label: Learn More
-    url: "/features"
+    url: "/the-process"
 - type: featuresblock
   template: featuresblock
   section_id: features
@@ -84,6 +84,5 @@ layout: home
 menu:
   main:
     weight: 1
-published: false
 
 ---
