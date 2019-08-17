@@ -4,7 +4,7 @@ title: 'And the winner is .... '
 subtitle: Awarded to Confex Technology Limited for their relentless perseverance of
   the best machinery.
 date: 2019-03-31 23:00:00 +0000
-thumb_img_path: "/images/Nobel_Prize.png"
+thumb_img_path: ''
 content_img_path: ''
 excerpt: April 1st 2019 will be a day not forgotten for many at Confex Technology
   Limited. For it was a day quite to remember!
