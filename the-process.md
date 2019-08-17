@@ -15,7 +15,9 @@ In the event the process was not used for that application but other commercial 
 
 ![Confex Process](http://www.confexuk.com/images/process-1.jpg =156x134)
 
-The Confex process is a Continuous Rotary Extrusion (CRE) system. It is used for the continuous production of aluminium or copper extrusions. The process (figures 1 and 2) uses a rotating grooved steel wheel which is closed over about a quarter of its circumference by fixed sealing segments to form an extrusion chamber.
+> The Confex process is a Continuous Rotary Extrusion (CRE) system. It is used for the continuous production of aluminium or copper extrusions. 
+
+The process (figures 1 and 2) uses a rotating grooved steel wheel which is closed over about a quarter of its circumference by fixed sealing segments to form an extrusion chamber.
 
 ![Confex Process](http://www.confexuk.com/images/process-2.jpg =156x134)
 
