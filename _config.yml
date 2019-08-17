@@ -12,7 +12,7 @@ header:
     - label: Sign Up
       url: "/signup"
 footer:
-  logo_img: images/logo_alt.png
+  logo_img: "/images/Confex1-single-sml2.png"
   tagline: Continuous Rotary Extrusion
   has_nav: true
   nav_title: Company
