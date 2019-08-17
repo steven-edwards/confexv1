@@ -8,7 +8,7 @@ sections:
   component: hero_block.html
   content: Confex are committed to customer service and providing products of the
     highest quality.
-  image: "/images/MC300-1-300x199.png"
+  image: "/images/MC300-transparent1.png"
   actions:
   - label: Learn More
     url: "/features"
