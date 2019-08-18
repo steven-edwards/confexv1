@@ -1,11 +1,17 @@
 ---
 title: Contact
 layout: contact
+subtitle: ''
+img_path: ''
 menu:
-  main:
-    weight: 6
   secondary:
     weight: 4
+  main:
+    weight: 6
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula.
+Please get in contact if you require further information. 
+
+**Tel**: +44 1202 
+
+**Fax**: +44 1202
