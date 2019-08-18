@@ -8,7 +8,7 @@ sections:
   component: hero_block.html
   content: Welcome to Confex - the number one supplier for all things relating to
     Continuous Rotary Extrusion - CRE.
-  image: "/images/MC300-transparent1.png"
+  image: ''
   actions:
   - label: Learn More
     url: "/the-process"
