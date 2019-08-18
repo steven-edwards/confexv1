@@ -21,7 +21,7 @@ footer:
   has_subscribe: false
   subscribe_title: Subscribe
   subscribe_content: Stay up to date with our latest developments.
-  content: "&copy; Confex Technology Ltd"
+  content: "&copy; Confex Technology Limited"
   links:
   - text: 'Design By #esc'
     url: http://eaglesoftware.tech
