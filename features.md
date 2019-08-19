@@ -33,7 +33,8 @@ sections:
 layout: features
 menu:
   main:
-    weight: 4
-    title: Products/Services
+    weight: 3
+    title: Services
+    parent: item_sRzjSLQ
 
 ---

@@ -7,7 +7,7 @@ menu:
   secondary:
     weight: 4
   main:
-    weight: 6
+    weight: 5
 
 ---
 Please get in contact if you require further information. 

@@ -4,6 +4,10 @@ title: Products
 subtitle: A list of some of our products we offer
 img_path: ''
 split_content: ''
+menu:
+  main:
+    weight: 2
+    parent: item_sRzjSLQ
 
 ---
 ### Spare Parts

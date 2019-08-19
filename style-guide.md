@@ -6,7 +6,7 @@ subtitle: The style guide provides you with a blueprint of default post and page
 layout: page
 menu:
   main:
-    weight: 5
+    weight: 4
     title: News
 
 ---
