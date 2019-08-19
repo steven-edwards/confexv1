@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test post for HTML content 2
+title: Test post for HTML content 3
 subtitle: Subtitle
 date: 2018-11-05 00:00:00 +0000
 thumb_img_path: ''
