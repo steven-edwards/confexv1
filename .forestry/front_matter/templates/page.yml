@@ -34,7 +34,7 @@ fields:
   label: Split Content
   hidden: false
 pages:
-- about.md
 - the-process.md
+- about.md
 - style-guide.md
 - signup.md
