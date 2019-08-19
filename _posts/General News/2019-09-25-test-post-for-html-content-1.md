@@ -21,28 +21,48 @@ excerpt: Excerpt goes here...
       <tr>
         <td>Body content 1</td>
         <td>Body content 2</td>
-        <td>Body content 3</td>
-        <td>Body content 4</td>
-        <td>Body content 5</td>
-        <td>Body content 6</td>
-        <td>Body content 7</td>
-        <td>Body content 8</td>
-        <td>Body content 9</td>
-        <td>Body content 10</td>
+      </tr>
+      <tr>
+        <td>Body content 1</td>
+        <td>Body content 2</td>
+      </tr>
+      <tr>
+        <td>Body content 1</td>
+        <td>Body content 2</td>
+      </tr>
+      <tr>
+        <td>Body content 1</td>
+        <td>Body content 2</td>
+      </tr>
+      <tr>
+        <td>Body content 1</td>
+        <td>Body content 2</td>
+      </tr>
+      <tr>
+        <td>Body content 1</td>
+        <td>Body content 2</td>
+      </tr>
+      <tr>
+        <td>Body content 1</td>
+        <td>Body content 2</td>
+      </tr>
+      <tr>
+        <td>Body content 1</td>
+        <td>Body content 2</td>
+      </tr>
+      <tr>
+        <td>Body content 1</td>
+        <td>Body content 2</td>
+      </tr>
+      <tr>
+        <td>Body content 1</td>
+        <td>Body content 2</td>
       </tr>
     </tbody>
     <tfoot>
       <tr>
         <td>Footer content 1</td>
         <td>Footer content 2</td>
-        <td>Footer content 3</td>
-        <td>Footer content 4</td>
-        <td>Footer content 5</td>
-        <td>Footer content 6</td>
-        <td>Footer content 7</td>
-        <td>Footer content 8</td>
-        <td>Footer content 9</td>
-        <td>Footer content 10</td>
       </tr>
     </tfoot>
   </table>
