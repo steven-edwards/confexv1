@@ -37,8 +37,8 @@ fields:
   config:
     required: true
 pages:
+- _posts/General News/2019-09-25-test-post-for-html-content-1.md
 - _posts/General News/test-post-for-html-content-2.md
-- _posts/General News/test-post-for-html-content-1.md
 - _posts/2019-04-22-2019-04-22-working-from-home.md
 - _posts/Exhibitions/2019-07-31-engineer-expo-2020.md
 - _posts/General News/2019-03-31-and-the-winner-is.md
