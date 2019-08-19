@@ -114,57 +114,83 @@ $palette: (
 
 /* Wrapper */
 
-// Table
+	@mixin wrapper($p) {
+		background-color: _palette($p, bg);
+		color: _palette($p, fg);
+		
+	// Basic
 
-			table {
+		strong, b {
+			color: _palette($p, fg-bold);
+		}
+
+		h2, h3, h4, h5, h6 {
+			color: _palette($p, fg-bold);
+		}
+
+		hr {
+			border-color: _palette($p, border);
+		}
+
+		blockquote {
+			border-color: _palette($p, border);
+		}
+
+		code {
+			background: _palette($p, border-bg);
+		}
+
+	// Table
+
+		table {
+			tbody {
+				tr {
+					border-color: _palette($p, border);
+
+					&:nth-child(2n + 1) {
+						background-color: _palette($p, border-bg);
+					}
+				}
+			}
+
+			th {
+				color: _palette($p, fg-bold);
+			}
+
+			thead {
+				border-color: _palette($p, border);
+			}
+
+			tfoot {
+				border-color: _palette($p, border);
+			}
+
+			&.alt {
 				tbody {
 					tr {
-						border-color: _palette($p, border);
-
-						&:nth-child(2n + 1) {
-							background-color: _palette($p, border-bg);
-						}
-					}
-				}
-
-				th {
-					color: _palette($p, fg-bold);
-				}
-
-				thead {
-					border-color: _palette($p, border);
-				}
-
-				tfoot {
-					border-color: _palette($p, border);
-				}
-
-				&.alt {
-					tbody {
-						tr {
-							td {
-								border-color: _palette($p, border);
-							}
+						td {
+							border-color: _palette($p, border);
 						}
 					}
 				}
 			}
+		}
 
-		// Button
+	// Button
 
-			input[type="submit"],
-			input[type="reset"],
-			input[type="button"],
-			button,
-			.button {
-				box-shadow: inset 0 0 0 2px _palette($p, border);
-				color: _palette($p, fg-bold);
+		input[type="submit"],
+		input[type="reset"],
+		input[type="button"],
+		button,
+		.button {
+			box-shadow: inset 0 0 0 2px _palette($p, border);
+			color: _palette($p, fg-bold);
 
-				&:hover {
-					background-color: _palette($p, border-bg);
-				}
-
-				&:active {
-					background-color: _palette($p, border2-bg);
-				}
+			&:hover {
+				background-color: _palette($p, border-bg);
 			}
+
+			&:active {
+				background-color: _palette($p, border2-bg);
+			}
+		}
