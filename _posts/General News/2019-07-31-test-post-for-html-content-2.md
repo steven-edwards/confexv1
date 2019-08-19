@@ -61,8 +61,8 @@ excerpt: ''
 <section>
                     <h4>Buttons</h4>
                     <ul class="actions">
-                        <li><a href="#" class="button primary">Primary</a></li>
-                        <li><a href="#" class="button">Default</a></li>
+                        <a href="#" class="button primary">Primary</a>
+                        <a href="#" class="button">Default</a>
                     </ul>
                     <ul class="actions">
                         <li><a href="#" class="button large">Large</a></li>
