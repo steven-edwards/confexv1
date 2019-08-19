@@ -25,7 +25,7 @@ sections:
     content: A bit more interesting paragraph of text should go here to explain what
       kind of amazing products Confex sell. Just a simple paragraph of text should
       do.
-    image: ''
+    image: "/images/CRE-wheel2.png"
     actions:
     - label: Learn More
       url: "/features"
