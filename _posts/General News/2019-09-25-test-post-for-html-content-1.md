@@ -2,7 +2,7 @@
 layout: post
 title: Test post for HTML content 1
 subtitle: This will go here
-date: 2019-09-25 11:00:00 +0000
+date: 2019-08-18 11:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
 excerpt: Excerpt goes here...
