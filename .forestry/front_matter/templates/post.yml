@@ -37,7 +37,7 @@ fields:
   config:
     required: true
 pages:
-- _posts/General News/2018-11-05-test-post-for-html-content-2.md
+- _posts/General News/html-image-wrap-test.md
 - _posts/General News/2019-07-31-test-post-for-html-content-2.md
 - _posts/Exhibitions/2019-08-13-confex-are-at-wire-2020.md
 - _posts/General News/2019-03-31-and-the-winner-is.md
