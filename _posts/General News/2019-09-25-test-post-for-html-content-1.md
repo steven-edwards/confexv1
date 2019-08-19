@@ -8,40 +8,42 @@ content_img_path: ''
 excerpt: Excerpt goes here...
 
 ---
-<table>
-    <caption>Table with thead, tfoot, and tbody</caption>
-  <thead>
-    <tr>
-      <th>Header content 1</th>
-      <th>Header content 2</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Body content 1</td>
-      <td>Body content 2</td>
-      <td>Body content 3</td>
-      <td>Body content 4</td>
-      <td>Body content 5</td>
-      <td>Body content 6</td>
-      <td>Body content 7</td>
-      <td>Body content 8</td>
-      <td>Body content 9</td>
-      <td>Body content 10</td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td>Footer content 1</td>
-      <td>Footer content 2</td>
-      <td>Footer content 3</td>
-      <td>Footer content 4</td>
-      <td>Footer content 5</td>
-      <td>Footer content 6</td>
-      <td>Footer content 7</td>
-      <td>Footer content 8</td>
-      <td>Footer content 9</td>
-      <td>Footer content 10</td>
-    </tr>
-  </tfoot>
-</table>
+<div class="table-wrapper">
+  <table>
+      <caption>Table with thead, tfoot, and tbody</caption>
+    <thead>
+      <tr>
+        <th>Header content 1</th>
+        <th>Header content 2</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Body content 1</td>
+        <td>Body content 2</td>
+        <td>Body content 3</td>
+        <td>Body content 4</td>
+        <td>Body content 5</td>
+        <td>Body content 6</td>
+        <td>Body content 7</td>
+        <td>Body content 8</td>
+        <td>Body content 9</td>
+        <td>Body content 10</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td>Footer content 1</td>
+        <td>Footer content 2</td>
+        <td>Footer content 3</td>
+        <td>Footer content 4</td>
+        <td>Footer content 5</td>
+        <td>Footer content 6</td>
+        <td>Footer content 7</td>
+        <td>Footer content 8</td>
+        <td>Footer content 9</td>
+        <td>Footer content 10</td>
+      </tr>
+    </tfoot>
+  </table>
+</div>
