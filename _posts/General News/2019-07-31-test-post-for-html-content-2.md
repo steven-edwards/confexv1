@@ -2,7 +2,7 @@
 layout: post
 title: Test post for HTML content 2
 subtitle: Subtitle
-date: 2019-07-31 23:00:00 +0000
+date: 2019-07-31T23:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: ''
 excerpt: ''
@@ -10,6 +10,7 @@ excerpt: ''
 ---
 ## Test table - raw HTML
 
+<section>
 <div class="table-wrapper">
                         <table>
                             <thead>
@@ -54,3 +55,36 @@ excerpt: ''
                             </tfoot>
                         </table>
                     </div>
+</section>
+
+
+<section>
+                    <h4>Buttons</h4>
+                    <ul class="actions">
+                        <li><a href="#" class="button primary">Primary</a></li>
+                        <li><a href="#" class="button">Default</a></li>
+                    </ul>
+                    <ul class="actions">
+                        <li><a href="#" class="button large">Large</a></li>
+                        <li><a href="#" class="button">Default</a></li>
+                        <li><a href="#" class="button small">Small</a></li>
+                    </ul>
+                    <ul class="actions fit">
+                        <li><a href="#" class="button fit">Fit</a></li>
+                        <li><a href="#" class="button primary fit">Fit</a></li>
+                        <li><a href="#" class="button fit">Fit</a></li>
+                    </ul>
+                    <ul class="actions fit small">
+                        <li><a href="#" class="button primary fit small">Fit + Small</a></li>
+                        <li><a href="#" class="button fit small">Fit + Small</a></li>
+                        <li><a href="#" class="button primary fit small">Fit + Small</a></li>
+                    </ul>
+                    <ul class="actions">
+                        <li><a href="#" class="button primary icon fa-download">Icon</a></li>
+                        <li><a href="#" class="button icon fa-download">Icon</a></li>
+                    </ul>
+                    <ul class="actions">
+                        <li><span class="button primary disabled">Disabled</span></li>
+                        <li><span class="button disabled">Disabled</span></li>
+                    </ul>
+                </section>
