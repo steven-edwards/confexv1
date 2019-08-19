@@ -2,7 +2,7 @@
 layout: post
 title: HTML Image Wrap Test
 subtitle: ''
-date: 2018-10-31 00:00:00 +0000
+date: 2018-10-31T00:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: ''
 excerpt: ''
