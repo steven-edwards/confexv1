@@ -16,6 +16,16 @@ fields:
   name: img_path
   label: Image
   description: The image shown below the page title.
+- name: sections
+  type: blocks
+  label: Sections
+  template_types:
+  - section
+  - pricingblock
+  config:
+    min: 
+    max: 
+  description: Products page sections
 - type: text
   name: layout
   label: Layout
@@ -23,16 +33,6 @@ fields:
   default: page
   config:
     required: true
-- name: split_content
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Split Content
-  hidden: false
 pages:
 - products.md
 - the-process.md
