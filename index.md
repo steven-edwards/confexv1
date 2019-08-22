@@ -28,7 +28,7 @@ sections:
     image: "/images/CRE-wheel2.png"
     actions:
     - label: Learn More
-      url: "/features"
+      url: "/products"
   - title: Services
     content: Confex offers a comprehensive service and support package for CRE machines
       supplied by all manufacturers.
