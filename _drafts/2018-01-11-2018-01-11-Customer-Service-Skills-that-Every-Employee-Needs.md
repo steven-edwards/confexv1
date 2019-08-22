@@ -1,15 +1,14 @@
 ---
 title: 5 Customer Service Skills that Every Employee Needs
-subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
-date: '2018-01-11'
+subtitle: Apparently, there are 5 Service Skills that Every Employee Needs
+date: 2018-01-11
 thumb_img_path: images/5_thumb.jpg
 content_img_path: images/5.jpg
-excerpt: >-
-  Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
+excerpt: Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
   interdum, massa massa tempor ante.
 layout: post
----
 
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dapibus est a dolor iaculis vulputate. Mauris libero nulla, commodo sit amet tempus quis, finibus cursus tellus. Duis non velit vel velit euismod elementum. Aliquam porta et nisl id mattis. Fusce vitae massa orci. Ut euismod ornare orci ac interdum. Morbi vulputate ullamcorper purus eu dictum. Vestibulum ac neque faucibus lectus egestas volutpat in vitae velit. Morbi elementum nibh libero, ac ultricies metus laoreet ac. Nam tempus ligula a nulla tincidunt, sit amet semper sapien condimentum.
 
 Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque aliquet ante sed odio pellentesque malesuada at id turpis. Nulla porta ipsum ac augue vulputate varius. Aenean tempor risus rhoncus congue egestas. Donec laoreet tempus tempus. Sed erat erat, elementum ut feugiat at, facilisis ut massa. Duis ultricies ex a mauris sodales euismod. Donec placerat bibendum arcu non rutrum. Praesent quis risus enim. Morbi efficitur lectus at diam cursus ultrices. Integer ut erat eget erat posuere interdum. Ut risus nunc, hendrerit a sagittis id, scelerisque sed ipsum.
