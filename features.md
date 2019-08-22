@@ -7,19 +7,19 @@ sections:
   title: The Best Features of Your Services
   component: content_block.html
   content: |-
-    Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum consectetur lobortis.
+    Explain a little about what you do or a lot it's up to you. Put some bullet points here: -
 
-    * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    * Ut eu nunc at diam fringilla fringilla eu ut massa.
-    * Phasellus ut enim non lorem venenatis rutrum.
+    * Our services are second to none
+    * We always ace our customers expectations
+    * We're number one (it's official!)
 
-    Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor sed justo tempor condimentum.
-  image: images/feature1.png
+    Continue with describing services that are offered....
+  image: "/images/CFC541B4-63A9-4B96-BE3E-4DA696293968.png"
   bg: gray
   actions:
-  - label: Free Trial
-    url: "/signup"
-  - label: View Demo
+  - label: Loan Machines
+    url: "#"
+  - label: Presentations
     url: "#"
 - template: faqblock
   component: faq_block.html
