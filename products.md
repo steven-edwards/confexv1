@@ -4,6 +4,7 @@ title: Products
 subtitle: A list of some of our products we offer
 img_path: ''
 split_content: ''
+sections: []
 menu:
   main:
     weight: 2
