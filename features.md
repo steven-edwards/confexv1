@@ -24,12 +24,12 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: This Is Call to Action Block!
+  title: Get In Touch With Us
   component: cta_block.html
-  subtitle: This is an optional description for the call to action block.
+  subtitle: Find out more about the products and services we offer.
   actions:
-  - label: Get Started
-    url: "#"
+  - label: Contact
+    url: contact
 layout: features
 menu:
   main:
