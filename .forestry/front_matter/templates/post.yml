@@ -37,13 +37,13 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-03-27-2019-03-27-User-Journey-Mapping.md
 - _posts/General News/2018-10-31-html-image-wrap-test.md
 - _posts/General News/2019-07-31-test-post-for-html-content-2.md
 - _posts/Exhibitions/2019-08-13-confex-are-at-wire-2020.md
 - _posts/General News/2019-03-31-and-the-winner-is.md
 - _posts/Exhibitions/2019-07-31-engineer-expo-2020.md
 - _posts/2019-04-22-2019-04-22-working-from-home.md
-- _posts/2019-03-27-2019-03-27-User-Journey-Mapping.md
 - _posts/2019-03-24-2019-03-24-Design-Team-Collaborates.md
 - _posts/2019-03-10-2019-03-10-Set-Big-Goals.md
 - _posts/2018-01-15-2018-01-15-Sales-as-Service.md
