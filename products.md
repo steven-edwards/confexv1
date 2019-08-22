@@ -4,7 +4,15 @@ title: Products
 subtitle: A list of some of our products we offer
 img_path: ''
 split_content: ''
-sections: []
+sections:
+- template: pricingblock
+  component: pricing_block.html
+  bg: gray
+  type: pricingblock
+  section_id: ''
+  title: ''
+  subtitle: ''
+  pricingplans: []
 menu:
   main:
     weight: 2
