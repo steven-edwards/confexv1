@@ -16,6 +16,7 @@ fields:
   - contentblock
   - ctablock
   - featuresblock
+  - faqblock
 - type: text
   name: layout
   label: Layout
