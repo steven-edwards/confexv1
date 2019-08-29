@@ -3,9 +3,11 @@ title: Blog
 layout: blog
 menu:
   main:
-    weight: 4
+    weight: 6
     title: News
+    identifier: item_9FwUbb-
   secondary:
-    weight: 3
+    weight: 2
+    title: News
 
 ---

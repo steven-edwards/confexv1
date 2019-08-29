@@ -63,6 +63,7 @@ sections:
 layout: home
 menu:
   main:
-    weight: 1
+    weight: 2
+    identifier: item_hMmh7m1
 
 ---

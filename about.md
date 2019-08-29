@@ -9,7 +9,8 @@ menu:
   secondary:
     weight: 1
   main:
-    weight: 2
+    weight: 4
+    identifier: item_fDLZZBn
 
 ---
 Confex Technology Ltd was formed in 1993 by David Godwin, who prior to forming Confex was involved in the start up of Holton Machinery including design, development and sales of CRE machines.
