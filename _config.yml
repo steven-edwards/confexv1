@@ -8,9 +8,7 @@ header:
   logo_img: "/images/Confex1-single-sml2.png"
   has_nav: true
   menu:
-    actions:
-    - label: Sign Up
-      url: "/signup"
+    actions: []
 footer:
   logo_img: "/images/Confex1-single-sml2-trans.png"
   tagline: Continuous Rotary Extrusion Specialists
