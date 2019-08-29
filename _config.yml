@@ -10,7 +10,7 @@ header:
   menu:
     actions: []
 footer:
-  logo_img: "/images/Confex1-single-sml2-trans.png"
+  logo_img: ''
   tagline: Continuous Rotary Extrusion Specialists
   has_nav: true
   nav_title: Company
