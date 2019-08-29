@@ -6,7 +6,7 @@ palette: blue
 header:
   title: Confex UK
   logo_img: "/images/Confex1-single-sml2.png"
-  has_nav: false
+  has_nav: true
   menu:
     actions: []
 footer:
