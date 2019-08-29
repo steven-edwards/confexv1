@@ -34,8 +34,8 @@ fields:
   config:
     required: true
 pages:
-- signup.md
 - products.md
+- signup.md
 - the-process.md
 - about.md
 - style-guide.md
