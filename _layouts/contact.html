@@ -23,7 +23,7 @@ layout: body
       {% endif %}
       <div class="post-content">
         {{ content }}
-        <form name="contactForm" method="POST" netlify-honeypot="bot-field" data-netlify="true" id="contact-form"
+        <form name="contactForm" method="POST" data-netlify-recaptcha="true" netlify-honeypot="bot-field" data-netlify="true" id="contact-form"
           class="contact-form">
           <p class="screen-reader-text">
             <label>Don't fill this out if you're human: <input name="bot-field" /></label>
