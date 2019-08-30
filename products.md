@@ -15,7 +15,7 @@ sections:
   pricingplans: []
 menu:
   main:
-    weight: 3
+    weight: 4
     parent: item_sRzjSLQ
     identifier: item_2jNn7go
 

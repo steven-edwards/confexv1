@@ -6,7 +6,7 @@ img_path: ''
 split_content: ''
 menu:
   main:
-    weight: 1
+    weight: 2
     title: The Process
     parent: item_sRzjSLQ
     identifier: item_aazFb6E
