@@ -1,5 +1,5 @@
 ---
-title: Contact Confex Technology
+title: Contact
 layout: contact
 subtitle: ''
 img_path: ''
