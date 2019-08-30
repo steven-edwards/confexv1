@@ -19,8 +19,9 @@ Please get in contact if you require further information.
     <thead>
       <tr>
         <td width="40%">
-          **Tel**: +44 1202 881466<br>  
-		  **Fax**: +44 1202 889466<br>
+          <b>Tel</b> +44 1202 881466<br>  
+          <b>Fax</b> +44 1202 889466<br>
+          <br>
           Unit 28 Glenmore Business Park<br>
           Blackhill Road<br>
           Holton Heath<br>
