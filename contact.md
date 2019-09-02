@@ -7,7 +7,7 @@ menu:
   secondary:
     weight: 2
   main:
-    weight: 6
+    weight: 7
     identifier: item_RYxfp9b
 
 ---
