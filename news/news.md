@@ -6,6 +6,6 @@ menu:
     weight: 6
     identifier: item_6F97Wy9
   secondary:
-    weight: 3
+    weight: 2
 
 ---

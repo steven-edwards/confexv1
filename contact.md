@@ -5,7 +5,7 @@ subtitle: ''
 img_path: ''
 menu:
   secondary:
-    weight: 2
+    weight: 3
   main:
     weight: 7
     identifier: item_RYxfp9b
