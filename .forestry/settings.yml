@@ -51,7 +51,7 @@ sections:
   templates:
   - page
 - type: jekyll-posts
-  label: Post
+  label: News Posts
   create: all
   templates:
   - post
