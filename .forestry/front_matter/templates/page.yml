@@ -34,6 +34,7 @@ fields:
   config:
     required: true
 pages:
+- news/news.md
 - style-guide.md
 - products.md
 - the-process.md
