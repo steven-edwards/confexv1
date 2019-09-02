@@ -35,7 +35,7 @@ sections:
   templates:
   - features
 - type: document
-  path: news/index.md
+  path: blog/index.md
   label: News
   templates:
   - blog
