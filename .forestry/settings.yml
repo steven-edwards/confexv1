@@ -35,6 +35,11 @@ sections:
   templates:
   - features
 - type: document
+  path: news/index.md
+  label: News
+  templates:
+  - blog
+- type: document
   path: contact.md
   label: Contact
   templates:
