@@ -1,11 +1,11 @@
 ---
-layout: page
 title: News
-subtitle: ''
-img_path: ''
-sections: []
+layout: blog
 menu:
   main:
-    weight: 6
+    weight: 4
+    title: News
+  secondary:
+    weight: 3
 
 ---
