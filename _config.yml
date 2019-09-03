@@ -21,7 +21,7 @@ footer:
   subscribe_content: Stay up to date with our latest developments.
   content: "&copy; Confex Technology Limited"
   links:
-  - text: Design By SIS Ltd
+  - text: SIS Solutions Ltd
     url: https://www.sisltd.co.uk
     new_window: true
 sass:
