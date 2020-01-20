@@ -2,11 +2,12 @@
 layout: post
 title: Confex are at Wire 2020
 subtitle: Visit our stand 9C38
-date: 2019-08-13 23:00:00 +0000
+date: '2019-08-13T23:00:00.000+00:00'
 thumb_img_path: "/images/Wire-logo2.jpg"
 content_img_path: "/images/Wire-logo2.jpg"
 excerpt: Meet your business partners at the world's most important trade show for
   the wire and cable industry.
+img_path: "/images/Wire_2020.png"
 
 ---
 **wire** curabitur sed consectetur nisi. Integer sit amet commodo massa. Cras posuere justo magna, id placerat ligula vulputate malesuada. Aenean a ipsum quis neque ornare placerat eu eu orci. Nullam feugiat sed ante in euismod. Pellentesque a nibh dolor. Donec ultrices lacus eget orci commodo ultricies. Morbi placerat purus non varius egestas. Ut tempus ligula quis lorem suscipit, sed vulputate dolor placerat. Aliquam ut massa placerat, vehicula erat non, mattis leo. Pellentesque egestas velit sit amet lectus lobortis, sit amet pharetra ipsum porta. Nullam massa nulla, tincidunt vel volutpat vel, commodo id leo. Curabitur id volutpat lacus, sed commodo velit. Quisque facilisis consectetur nisl vitae vulputate. Proin porttitor ipsum ut diam faucibus, scelerisque posuere ex euismod. Aenean posuere bibendum egestas.
