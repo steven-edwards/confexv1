@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Confex are at Wire 2020
-subtitle: Visit our stand 9C38
+title: Confex are proud to be at Wire 2020
+subtitle: Visit us at our stand 9C38
 date: '2019-08-13T23:00:00.000+00:00'
 thumb_img_path: "/images/Wire-logo2.jpg"
 content_img_path: "/images/Wire-logo2.jpg"
