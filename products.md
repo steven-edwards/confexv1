@@ -22,7 +22,7 @@ menu:
 ---
 ### Spare Parts
 
-![](/images/spare-parts-product.jpg){: style="float:right; padding:10px"}Our Customer Support Team can offer spare parts for **<mark>all CRE machines</mark>** and hold stock of many seals and commonly required items at our facility.
+![](/images/spare-parts-product.jpg){: style="float:right; padding:10px"}Our Customer Support Team can offer spare parts for all CRE machines and hold stock of many seals and commonly required items at our facility.
 
 Our aim is to provide a better service than our competitors - usually sending a quotation within 24 hours.
 
