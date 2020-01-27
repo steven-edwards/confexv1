@@ -29,15 +29,6 @@ sections:
   title: FAQ
   subtitle: You need them? We have them!
   faqitems:
-  - question: Can i add more questions here?
-    answer: Easily! Go into the <mark>admin section<unmark> and add as many FAQs as
-      you need.
-  - question: Can we arrange loan machines?
-    answer: Yes of course. Please speak to your sales representative who will be able
-      to arrange this for you. Please note there is an administration fee associated
-      with this arrangement.
-  - question: Do you deliver to UAE?
-    answer: Yes we do! And it next day (in most cases!)
   - question: What kind of services do you offer?
     answer: Well it's good that you ask! We have many different services tailored
       to your needs. Please enquire for further details.
