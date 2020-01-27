@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Products
-subtitle: A list of some of our products we offer
+subtitle: ''
 img_path: ''
 split_content: ''
 sections:
