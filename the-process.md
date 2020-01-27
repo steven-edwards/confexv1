@@ -15,13 +15,9 @@ menu:
 ---
 The United Kingdom Atomic Energy Authority (UKAEA) invented the continuous extrusion system in 1971 whilst looking for a method of producing seamless tubes for the storage of spent nuclear fuel rods.
 
-In the event the process was not used for that application but other commercial possibilities became apparent and over the past 40+ years the process has been developed and used for a variety of products. Today it is estimated that there are over 800 installations world-wide.
-
-![Confex Process](http://www.confexuk.com/images/process-1.jpg?classes=float-right)
+The process was ultimately not used for that application but other commercial possibilities became apparent and over the past 40 years the process has been developed and used for a variety of products. Today it is estimated that there are over 800 installations world-wide.
 
 > _The Confex process is a Continuous Rotary Extrusion (CRE) system. It is used for the continuous production of aluminium or copper extrusions._
-
-![Confex Process](http://www.confexuk.com/images/process-2.jpg?classes=float-right)
 
 The process (figures 1 and 2) uses a rotating grooved steel wheel which is closed over about a quarter of its circumference by fixed sealing segments to form an extrusion chamber.
 
