@@ -21,14 +21,6 @@ sections:
     highest quality.
   bg: gray
   featureslist:
-  - title: Products
-    content: A bit more interesting paragraph of text should go here to explain what
-      kind of amazing products Confex sell. Just a simple paragraph of text should
-      do.
-    image: "/images/CRE-wheel2.png"
-    actions:
-    - label: Learn More
-      url: "/products"
   - title: Services
     content: Confex offers a comprehensive service and support package for CRE machines
       supplied by all manufacturers.
