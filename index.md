@@ -6,10 +6,8 @@ sections:
   section_id: hero
   title: Continuous Rotary Extrusion Specialists
   component: hero_block.html
-  content: |-
-    Welcome to Confex and our new website, please bear with us as we get everything in order and fully update our content.
-
-    We are the number one supplier for all things relating to Continuous Rotary Extrusion - CRE.
+  content: Welcome to Confex Technology Limited. We are the number one supplier for
+    all things relating to Continuous Rotary Extrusion - CRE.
   image: "/images/C310_final.jpg"
   actions:
   - label: Learn More
