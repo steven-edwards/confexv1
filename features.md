@@ -42,11 +42,5 @@ sections:
   - label: Contact
     url: contact
 layout: features
-menu:
-  main:
-    weight: 5
-    title: Services
-    parent: item_sRzjSLQ
-    identifier: item_xFPpZ9h
 
 ---
