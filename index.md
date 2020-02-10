@@ -32,9 +32,13 @@ sections:
     - label: Learn More
       url: "/features"
   - title: Conversions
-    content: We also carry out conversion of our all types of CRE machines to our
-      extrusion system to achieve improved productivity and quality at much lower
-      operating costs.
+    content: |-
+      Many machines use old processes and we are able to help in the following areas:
+
+      1. Improve the coiling of the product on the drum, the product will never be stretched and the lay will be even meaning that when the product is decoiled for the next process it is in good condition and hasn’t picked up any damage.
+      2. On older machines we are able to replace the old headframe with new
+      3. Refurbishment of old parts to an almost new condition such as shoes.
+      4. We can supply complete new control systems
     image: "/images/cogs2.jpg"
     actions:
     - label: Learn More
