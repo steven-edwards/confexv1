@@ -17,10 +17,9 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: features
-  title: The Number One Supplier
+  title: Confex Technology Ltd
   component: features_block.html
-  subtitle: Confex are committed to customer service and providing products of the
-    highest quality.
+  subtitle: Confex are committed to excellent customer service.
   bg: gray
   featureslist:
   - title: Services
