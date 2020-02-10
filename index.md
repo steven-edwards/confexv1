@@ -22,7 +22,7 @@ sections:
   featureslist:
   - title: Services
     content: |-
-      8 years ago Confex decided to stop building CRE machines because our service and support business was increasing, many companies had machines that they had little or no training on and that used old tooling and processes, our process knowledge which came direct from a production environment meant that we were able to firstly solve the problems and then ensure that the customer stayed at a high level of production.
+      8 years ago Confex decided to stop building CRE machines because our service and support business was increasing, many companies had machines that they had little or no training on and that used old tooling and processes. Our process knowledge which came direct from a production environment, meant that we were able to firstly solve the problems and then ensure that the customer stayed at a high level of production.
 
       1. Upgrade the tooling, wheels and dies to the most recent production technology to make a better product and reduce defects
       2. Increase the line speed and lower the scrap rates making the process more profitable
