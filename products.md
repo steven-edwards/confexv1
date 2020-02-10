@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Products
+title: Products and Services
 subtitle: ''
 img_path: ''
 split_content: ''
@@ -31,3 +31,7 @@ menu:
 ![](/images/tooling-dies.jpg){: style="float:left; padding:10px"}We stock many die blanks for both copper and aluminum ready for the die profile to be cut. This means fast delivery.
 
 We offer on-going supply contracts where we hold stock of extrusion wheels and wear parts (feed plates, abutments, etc) ready for either phased delivery or call off. This gives the benefit of reduced inventory and Just-In-Time delivery.
+
+### Training and Consultancy
+
+Many new and existing customers need their staff trained or need product development and Confex are able to provide these services. 
