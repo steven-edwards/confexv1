@@ -10,7 +10,7 @@ sections:
     Welcome to Confex and our new website, please bear with us as we get everything in order and fully update our content.
 
     We are the number one supplier for all things relating to Continuous Rotary Extrusion - CRE.
-  image: "/images/CFC541B4-63A9-4B96-BE3E-4DA696293968.png"
+  image: "/images/C310_final.jpg"
   actions:
   - label: Learn More
     url: "/the-process"
