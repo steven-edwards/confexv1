@@ -6,13 +6,14 @@ sections:
   type: heroblock
   section_id: ''
   title: 'Warning: Phising emails from info.confextechnologylimited@gmail.com'
-  content: "We have been made aware that someone is sending out emails purporting
+  content: "##### We have been made aware that someone is sending out emails purporting
     to be from our MD Angus Mackinnon. Any emails sent from [info.confextechnologylimited@gmail.com](mailto:info.confextechnologylimited@gmail.com)
     are not from Confex Technology Ltd and are likely to be a phishing scam to have
-    you disclose bank details and make payments. \n\nIf you receive an email from
-    this address please ignore it and add it to your Junk email folder.\n\nAll legitimate
-    emails will come from our domain @confexuk.com \n\nStay Safe everyone and be extra
-    vigilant in these challenging times.\n\nConfex Technology Ltd"
+    you disclose bank details and make payments. \n\n##### If you receive an email
+    from this address please ignore it and add it to your Junk email folder.\n\n#####
+    All legitimate emails will come from our domain @confexuk.com \n\n##### Stay Safe
+    everyone and be extra vigilant in these challenging times.\n\n##### Confex Technology
+    Ltd"
   image: ''
   actions: []
 - type: heroblock
