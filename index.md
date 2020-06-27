@@ -5,7 +5,7 @@ sections:
   component: hero_block.html
   type: heroblock
   section_id: ''
-  title: 'Warning: Phising emails from info.confextechnologylimited@gmail.com'
+  title: 'Warning: Phising emails not from Confex Technology Ltd'
   content: "##### We have been made aware that someone is sending out emails purporting
     to be from our MD Angus Mackinnon. Any emails sent from [info.confextechnologylimited@gmail.com](mailto:info.confextechnologylimited@gmail.com)
     are not from Confex Technology Ltd and are likely to be a phishing scam to have
