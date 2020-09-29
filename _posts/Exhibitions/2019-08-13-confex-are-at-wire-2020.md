@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wire Dusseldorf from the 30th March to the 3rd April 2020
+title: Wire Dusseldorf from the 7th - 11th December 2020
 subtitle: Visit our stand 9C38
 date: 2020-02-01 00:00:00 +0000
 thumb_img_path: "/images/Wire-logo2.jpg"
