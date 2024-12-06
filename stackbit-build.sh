@@ -7,7 +7,7 @@ set -v
 if [[ -z "${STACKBIT_API_KEY}" ]]; then
     echo "WARNING: No STACKBIT_API_KEY environment variable set, skipping stackbit-pull"
 else
-    npx @stackbit/stackbit-pull --stackbit-pull-api-url=https://api.stackbit.com/pull/nfp_UN4QxVouXfRpW1pXtUabGkmXTv1D69Ng78e1 
+    npx @stackbit/stackbit-pull --stackbit-pull-api-url=https://api.stackbit.com/pull/5d541fcd408284001bacb4a7 
 fi
 jekyll build
 
